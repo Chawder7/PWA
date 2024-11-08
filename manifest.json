@@ -2,7 +2,7 @@
     "name": "Tareas en PWA",
     "short_name": "tareas PWA",
     "description": "Aplicacion simple PWA",
-    "start_url":"/",
+    "start_url":"./",
     "scope": "./",
     "display": "standalone",
     "background_color": "#f4f4f4",
