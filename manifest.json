@@ -24,10 +24,10 @@
     ],
     "screenshots":[
         {
-            "src": "./images/scrennshot1.png",
+            "src": "./images/screenshot1.png",
             "sizes": "1280x720",
             "type": "image/png",
-            "purpose": "wide"
+            "fonr_factor": "wide"
         }
     ],
     "categories":["productivity","utilities"],
